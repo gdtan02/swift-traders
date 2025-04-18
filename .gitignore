@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# ML pipeline data and models
+backend/ml-pipeline/data/
+backend/ml-pipeline/models/
